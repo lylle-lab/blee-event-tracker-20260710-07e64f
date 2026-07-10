@@ -1,5 +1,5 @@
 window.EVENT_TRACKER_DATA = {
-  "generated_at": "2026-07-10T11:58:23",
+  "generated_at": "2026-07-10T12:02:24",
   "refresh_interval_seconds": 300,
   "basis": "Public live summary generated from BLEE event analysis outputs; updates as the publisher pushes refreshed data.",
   "sheet_url": "https://docs.google.com/spreadsheets/d/1BdHb8nEU1EU-wGgRsYYknkjWJbyLqhVAkL-xFjSJmnk/edit?gid=1202689452#gid=1202689452",
@@ -138,35 +138,35 @@ window.EVENT_TRACKER_DATA = {
   },
   "processes": {},
   "ledger_today": {
-    "calls": 476,
-    "cost_usd": 8.329999999999998
+    "calls": 480,
+    "cost_usd": 8.399999999999999
   },
   "sf": {
     "sheet_url": "https://docs.google.com/spreadsheets/d/1CuOsZ3sosNExwFyS4cWw8KCFQDXJXSBqjvgc6WnBkGY/edit",
     "summary": {
-      "updated_at": "2026-07-10T11:02:12",
+      "updated_at": "2026-07-10T12:00:53",
       "contacts_total": 170,
       "companies_total": 158,
-      "qualifier_input_companies": 90,
-      "qualifier_completed_companies": 66,
-      "append_candidates_count": 25,
+      "qualifier_input_companies": 116,
+      "qualifier_completed_companies": 107,
+      "append_candidates_count": 37,
       "contact_counts": {
         "Existing SAM": 40,
-        "Newly qualified SAM": 17,
+        "Newly qualified SAM": 24,
         "Existing TAM-only": 7,
-        "Newly qualified TAM-only": 12,
-        "Review": 26,
-        "Pending qualifier": 52,
-        "Not in TAM": 16
+        "Newly qualified TAM-only": 17,
+        "Review": 46,
+        "Pending qualifier": 9,
+        "Not in TAM": 27
       },
       "company_counts": {
         "Existing SAM": 35,
-        "Newly qualified SAM": 14,
+        "Newly qualified SAM": 21,
         "Existing TAM-only": 7,
-        "Newly qualified TAM-only": 11,
-        "Review": 25,
-        "Pending qualifier": 51,
-        "Not in TAM": 15
+        "Newly qualified TAM-only": 16,
+        "Review": 45,
+        "Pending qualifier": 9,
+        "Not in TAM": 25
       }
     },
     "discovery": {
