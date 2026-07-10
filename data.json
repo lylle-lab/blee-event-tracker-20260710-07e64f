@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T11:28:12",
+  "generated_at": "2026-07-10T11:33:14",
   "refresh_interval_seconds": 300,
   "basis": "Public live summary generated from BLEE event analysis outputs; updates as the publisher pushes refreshed data.",
   "sheet_url": "https://docs.google.com/spreadsheets/d/1BdHb8nEU1EU-wGgRsYYknkjWJbyLqhVAkL-xFjSJmnk/edit?gid=1202689452#gid=1202689452",
@@ -138,8 +138,8 @@
   },
   "processes": {},
   "ledger_today": {
-    "calls": 424,
-    "cost_usd": 7.4199999999999955
+    "calls": 432,
+    "cost_usd": 7.559999999999996
   },
   "sf": {
     "sheet_url": "https://docs.google.com/spreadsheets/d/1CuOsZ3sosNExwFyS4cWw8KCFQDXJXSBqjvgc6WnBkGY/edit",
