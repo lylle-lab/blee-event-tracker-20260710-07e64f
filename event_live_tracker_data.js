@@ -1,5 +1,5 @@
 window.EVENT_TRACKER_DATA = {
-  "generated_at": "2026-07-10T11:53:21",
+  "generated_at": "2026-07-10T11:58:23",
   "refresh_interval_seconds": 300,
   "basis": "Public live summary generated from BLEE event analysis outputs; updates as the publisher pushes refreshed data.",
   "sheet_url": "https://docs.google.com/spreadsheets/d/1BdHb8nEU1EU-wGgRsYYknkjWJbyLqhVAkL-xFjSJmnk/edit?gid=1202689452#gid=1202689452",
@@ -138,8 +138,8 @@ window.EVENT_TRACKER_DATA = {
   },
   "processes": {},
   "ledger_today": {
-    "calls": 466,
-    "cost_usd": 8.154999999999998
+    "calls": 476,
+    "cost_usd": 8.329999999999998
   },
   "sf": {
     "sheet_url": "https://docs.google.com/spreadsheets/d/1CuOsZ3sosNExwFyS4cWw8KCFQDXJXSBqjvgc6WnBkGY/edit",
