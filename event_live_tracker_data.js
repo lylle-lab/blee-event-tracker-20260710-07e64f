@@ -1,5 +1,5 @@
 window.EVENT_TRACKER_DATA = {
-  "generated_at": "2026-07-10T23:17:13",
+  "generated_at": "2026-07-11T00:20:54",
   "refresh_interval_seconds": 300,
   "basis": "Public live summary generated from BLEE event analysis outputs; updates as the publisher pushes refreshed data.",
   "sheet_url": "https://docs.google.com/spreadsheets/d/1BdHb8nEU1EU-wGgRsYYknkjWJbyLqhVAkL-xFjSJmnk/edit?gid=1202689452#gid=1202689452",
@@ -7,14 +7,14 @@ window.EVENT_TRACKER_DATA = {
     "contact_rows": 864,
     "canonical_unique_companies": 605,
     "companies_requiring_qualifier": 429,
-    "companies_completed_by_qualifier": 429,
-    "companies_still_unqualified": 0,
-    "staged_append_candidates": 73,
+    "companies_completed_by_qualifier": 224,
+    "companies_still_unqualified": 205,
+    "staged_append_candidates": 48,
     "qualifier_status_counts": {
-      "QUALIFIED": 73,
-      "NOT_IN_TAM": 168,
-      "REVIEW": 174,
-      "INSUFFICIENT_EVIDENCE": 14
+      "QUALIFIED": 48,
+      "NOT_IN_TAM": 84,
+      "REVIEW": 83,
+      "INSUFFICIENT_EVIDENCE": 9
     }
   },
   "events": [
@@ -22,59 +22,59 @@ window.EVENT_TRACKER_DATA = {
       "event": "GCUS25reg",
       "contact_rows": 612,
       "unique_companies": 436,
-      "tam_companies": 190,
-      "sam_companies": 131,
-      "tam_company_pct": 43.6,
-      "sam_company_pct": 30.0,
-      "companies_processed_by_qualifier": 302,
-      "new_tam_from_qualifier": 56,
-      "still_unqualified": 0,
+      "tam_companies": 172,
+      "sam_companies": 119,
+      "tam_company_pct": 39.4,
+      "sam_company_pct": 27.3,
+      "companies_processed_by_qualifier": 156,
+      "new_tam_from_qualifier": 38,
+      "still_unqualified": 146,
       "tam_scope": {
-        "attendee_rows": 242,
-        "right_fit_contacts": 238,
-        "right_fit_pct_of_tam_attendees": 98.3,
-        "right_fit_pct_of_all_attendees": 38.9,
-        "direct_sell_to_contacts": 160,
-        "direct_sell_to_pct_of_tam_attendees": 66.1,
-        "warm_intro_contacts": 78,
-        "not_direct_fit_at_tam_companies": 4
+        "attendee_rows": 215,
+        "right_fit_contacts": 212,
+        "right_fit_pct_of_tam_attendees": 98.6,
+        "right_fit_pct_of_all_attendees": 34.6,
+        "direct_sell_to_contacts": 142,
+        "direct_sell_to_pct_of_tam_attendees": 66.0,
+        "warm_intro_contacts": 70,
+        "not_direct_fit_at_tam_companies": 3
       },
       "sam_scope": {
-        "attendee_rows": 171,
-        "right_fit_contacts": 168,
-        "right_fit_pct_of_sam_attendees": 98.2,
-        "direct_sell_to_contacts": 123,
-        "warm_intro_contacts": 45,
-        "not_direct_fit_at_sam_companies": 3
+        "attendee_rows": 152,
+        "right_fit_contacts": 150,
+        "right_fit_pct_of_sam_attendees": 98.7,
+        "direct_sell_to_contacts": 111,
+        "warm_intro_contacts": 39,
+        "not_direct_fit_at_sam_companies": 2
       }
     },
     {
       "event": "Summit 2025",
       "contact_rows": 252,
       "unique_companies": 171,
-      "tam_companies": 59,
-      "sam_companies": 33,
-      "tam_company_pct": 34.5,
-      "sam_company_pct": 19.3,
-      "companies_processed_by_qualifier": 129,
-      "new_tam_from_qualifier": 17,
-      "still_unqualified": 0,
+      "tam_companies": 52,
+      "sam_companies": 30,
+      "tam_company_pct": 30.4,
+      "sam_company_pct": 17.5,
+      "companies_processed_by_qualifier": 69,
+      "new_tam_from_qualifier": 10,
+      "still_unqualified": 60,
       "tam_scope": {
-        "attendee_rows": 91,
-        "right_fit_contacts": 90,
-        "right_fit_pct_of_tam_attendees": 98.9,
-        "right_fit_pct_of_all_attendees": 35.7,
-        "direct_sell_to_contacts": 67,
-        "direct_sell_to_pct_of_tam_attendees": 73.6,
-        "warm_intro_contacts": 23,
+        "attendee_rows": 79,
+        "right_fit_contacts": 78,
+        "right_fit_pct_of_tam_attendees": 98.7,
+        "right_fit_pct_of_all_attendees": 31.0,
+        "direct_sell_to_contacts": 56,
+        "direct_sell_to_pct_of_tam_attendees": 70.9,
+        "warm_intro_contacts": 22,
         "not_direct_fit_at_tam_companies": 1
       },
       "sam_scope": {
-        "attendee_rows": 49,
-        "right_fit_contacts": 49,
+        "attendee_rows": 46,
+        "right_fit_contacts": 46,
         "right_fit_pct_of_sam_attendees": 100.0,
-        "direct_sell_to_contacts": 38,
-        "warm_intro_contacts": 11,
+        "direct_sell_to_contacts": 36,
+        "warm_intro_contacts": 10,
         "not_direct_fit_at_sam_companies": 0
       }
     }
@@ -137,10 +137,7 @@ window.EVENT_TRACKER_DATA = {
     "all_chunks_complete": true
   },
   "processes": {},
-  "ledger_today": {
-    "calls": 480,
-    "cost_usd": 8.399999999999999
-  },
+  "ledger_today": {},
   "sf": {
     "sheet_url": "https://docs.google.com/spreadsheets/d/1CuOsZ3sosNExwFyS4cWw8KCFQDXJXSBqjvgc6WnBkGY/edit",
     "summary": {
